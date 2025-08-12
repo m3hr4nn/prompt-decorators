@@ -25,6 +25,8 @@ This way I can have a quick cheat-sheet of the prompt instructions I learned, ``
    - To **turn decorators off**, I send `+++Clear` to reset all active decorators.  
    - Without activating, ChatGPT replies normally without applying decorators.
 
+![PromptDecorators.v2.0](./images/image2.png)
+
 ## Benefits
 
 - No need to resend long instructions every time.  
