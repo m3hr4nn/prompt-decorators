@@ -121,3 +121,8 @@ If no decorators are active, the message "No active decorators" must be returned
 When this decorator is included, you must return a table listing all available decorators, showing their names, descriptions, and current status.
 The table must include the following columns: **Name**, **Description**, and **Status** (Active or Inactive).
 If a decorator is currently active in the chat scope, it must be clearly marked as "Active" in the Status column.
+
+---
+
+#### `+++Summarize`
+When this decorator is included, you must return a summarized Q/A of the chat.
